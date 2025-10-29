@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": "seguro-protecao-preco",
+      "title": "Economize Sempre: Tudo Sobre o Seguro Proteção de Preço",
+      "summary": "Você sabia que alguns cartões de crédito oferecem um benefício pouco conhecido que pode garantir reembolso se você encontrar o mesmo produto mais barato? O Seguro Proteção de Preço, disponível nos cartões Visa Gold e Mastercard Gold, permite que você solicite o reembolso da diferença de preço em até 30 dias após a compra.",
+      "image": "images/artigos/seguro-protecao-preco.jpg",
+      "content": "data/artigos/seguro-protecao-preco.html",
+      "date": "2025-10-15",
+      "category": "economia"
+    },
+    {
+      "id": "aurora-boreal",
+      "title": "A Magia da Aurora Boreal: Um Espetáculo de Luzes no Céu",
+      "summary": "Conheça um dos fenômenos mais impressionantes da natureza e saiba como planejar sua viagem para vê-la.",
+      "image": "images/artigos/aurora-boreal.jpg",
+      "content": "data/artigos/aurora-boreal.html",
+      "date": "2025-10-20",
+      "category": "destinos"
+    },
+    {
+      "id": "acumulo-milhas",
+      "title": "Acúmulo de Milhas: Transforme seus Pontos em Viagens Incríveis",
+      "summary": "Aprenda estratégias eficientes para acumular milhas e realizar as viagens dos seus sonhos gastando menos.",
+      "image": "images/artigos/acumulo-milhas.jpg",
+      "content": "data/artigos/acumulo-milhas.html",
+      "date": "2025-10-25",
+      "category": "milhas"
+    }
+  ],
+  "news": [
+    {
+      "id": "em-breve",
+      "title": "Em breve",
+      "summary": "Fique ligado! Em breve teremos as melhores notícias sobre viagens, promoções e dicas para você viajar mais e gastar menos.",
+      "image": "",
+      "date": "2025-10-29"
+    }
+  ]
+}
