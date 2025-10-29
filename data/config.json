@@ -1,1 +1,25 @@
-
+{
+  "site": {
+    "name": "Leve Vida",
+    "slogan": "Voe alto, Viva Leve!",
+    "description": "Transforme seus sonhos de viagem em realidade sem pesar no bolso. Descubra dicas, promoções e roteiros incríveis!"
+  },
+  "contact": {
+    "address": "Jardim Aclimação, Cuiabá - MT, Brasil",
+    "phone": "+55-999-7777-000",
+    "email": "equipelevevida@gmail.com",
+    "social": {
+      "instagram": "https://www.instagram.com/levevida8?igsh=NjRudGhrZGk4NXRk",
+      "kwai": "https://k.kwai.com/u/@LeveVida88/lkHxSCtl",
+      "tiktok": "https://tiktok.com/@levevida",
+      "youtube": "https://www.youtube.com/@LeveVida8"
+    }
+  },
+  "about": {
+    "text": [
+      "Leve Vida nasceu de uma história de amor e saudade que cruzava cidades e a nossa própria vontade de estar juntos. Em Cuiabá, encontrei Cleide Lúcia — hoje minha esposa, parceira de aventuras e mãe do nosso filho — que havia deixado Montes Claros para seguir um sonho profissional.",
+      "A cada reencontro com a família dela, dos pais aos amigos de infância, embarcávamos numa verdadeira maratona atrás de passagens com preço justo, mas os valores altos sempre pareciam nos deixar sem fôlego. Foi dessa vontade de viajar com leveza que surgiu o Leve Vida.",
+      "Aqui, exploramos truques, promoções e roteiros acessíveis para transformar seus planos de viagem em experiências inesquecíveis, sem pesar no bolso. Porque, afinal, amar e viajar combinam: quanto mais leve o bolso, mais alto podemos voar. Voe Alto, Viva Leve!"
+    ]
+  }
+}
